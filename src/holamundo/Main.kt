@@ -1,7 +1,7 @@
 package holamundo
 
 fun main() {
-    println("Hola Mundo")
+    println("Hola Mundo Kotlin")
 }
 
 
