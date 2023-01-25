@@ -11,8 +11,9 @@ fun main() {
     val disclaimer = "la cantidad esta en \$MXN"
     println(disclaimer)
 
-    val total = price.times(tax.plus(other:1))
-    println(total.toFloat()
+    val total = price.times(tax.plus(1))
+    println(total.toFloat())
+
 
 
 
