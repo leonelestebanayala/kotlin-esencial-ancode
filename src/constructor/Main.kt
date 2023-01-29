@@ -1,5 +1,5 @@
 package constructor
-import Enum.Color
+import enum.Color
 fun main() {
     val miIphone = iOs(50, 40, 1550.50)
 

@@ -1,4 +1,4 @@
-package Enum
+package enum
 
 class Fecha {
     val diasDelaSemana = DiasDeLaSemana.LUNES

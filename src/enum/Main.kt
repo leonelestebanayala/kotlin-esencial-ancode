@@ -1,4 +1,4 @@
-package Enum
+package enum
 
 fun main() {
     val colorSamon =  Color.SALMON.hex

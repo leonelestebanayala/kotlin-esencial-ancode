@@ -1,4 +1,4 @@
-package Enum
+package enum
 
 enum class Color (val hex: Int){
     SALMON(0xFA8072),
